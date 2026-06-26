@@ -89,9 +89,6 @@ data-warehouse-project/
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/  ents for the project
-```
----
-                         # Scripts for creating analytical models
 │
 ├── tests/                              # Test scripts and quality files
 │

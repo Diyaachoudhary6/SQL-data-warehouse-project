@@ -49,3 +49,5 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
+## Data Architecture
+![diagram](https://github.com/Diyaachoudhary6/SQL-data-warehouse-project/blob/main/docs/High%20Level%20Architecture.png)

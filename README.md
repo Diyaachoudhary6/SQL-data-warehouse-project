@@ -63,7 +63,9 @@ These insights empower stakeholders with key business metrics, enabling strategi
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
-│
+│   ├── source_crm
+│   └──  source_erp
+|
 ├── docs/                               # Project documentation and architecture details
 |   ├── data_flow_diagram.png           # Draw.io file for the data flow diagram   
 │   ├── etl_methods.png                 # Draw.io file shows all different techniquies and methods of ETL
@@ -71,14 +73,31 @@ data-warehouse-project/
 │   ├── integration_model.png           # how tables in CRM and ERP are related to each other.
 │   ├── Sales_Data_Mart.png             # Draw.io file for data models (star schema)
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
+│   └──  naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
-│   ├── gold/  ents for the project
-│
+│   ├── gold/ ents for the project
+│   └── init_database.sql
+│ 
 ├── tests/                              # Test scripts and quality files
-│
+│   ├── quality_checks_gold.sql
+│   └── quality_checks_silver.sql
+│   
 └── README.md                           # Project overview and instructions
- 
+
+```
+
+---
+
+# 👨‍💻 Author
+
+**Diyaa Choudhary**
+
+Aspiring Data Analyst
+
+**Skills:**  • SQL • Tableau • Power BI • Excel • Python
+
+---
+## ⭐ If you found this project useful, consider giving it a Star!

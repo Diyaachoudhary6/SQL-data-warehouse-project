@@ -73,7 +73,7 @@ data-warehouse-project/
 │   ├── integration_model.png           # how tables in CRM and ERP are related to each other.
 │   ├── Sales_Data_Mart.png             # Draw.io file for data models (star schema)
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   └──  naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
+│   └──  naming-conventions.md          # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data

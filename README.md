@@ -14,7 +14,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
-## Project Overview
+# Project Overview
 
 This project involves:
 
@@ -33,7 +33,7 @@ This project involves:
 
 ---
 
-## 🚀 Project Requirements
+# 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -58,7 +58,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 ```
 data-warehouse-project/
 │

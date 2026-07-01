@@ -88,16 +88,11 @@ data-warehouse-project/
 └── README.md                           # Project overview and instructions
 
 ```
-
----
-
-# 👨‍💻 Author
+# 👩‍💻 Author
 
 **Diyaa Choudhary**
 
-Aspiring Data Analyst
-
-**Skills:**  • SQL • Tableau • Power BI • Excel • Python
+Aspiring Business Risk Analyst | SQL | Advance Excel | Tableau | Python | Time Series Analysis
 
 ---
-## ⭐ If you found this project useful, consider giving it a Star!
+## If you found this project helpful, feel free to ⭐ the repository!
